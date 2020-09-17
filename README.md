@@ -20,9 +20,9 @@ public class main{
   public statoc void main(String[] args) throws Excetion{  //예외처리
     BufferedReader br = new BufferedReader (new InputStreamReader(System.in));
     
-    int a = Integer.parseInt(br.readLine()); // 정수형 한 줄을 입력받을떄
-    String s = br.readLine();                 // 문자열을 입력받을 떄
-    int b = br.read();                        // 정수형 입력받을 떄
+    int a = Integer.parseInt(br.readLine()); // 정수형 한 줄을 입력받을 때
+    String s = br.readLine();                 // 문자열을 입력받을 때
+    int b = br.read();                        // 정수형 입력받을 때
     }
 }
 ```

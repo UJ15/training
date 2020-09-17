@@ -23,5 +23,7 @@ public class main{
     int a = Integer.parseInt(br.readLine()); // 정수형 한 줄을 입력받을떄
     String s = br.readLine();                 // 문자열을 입력받을 떄
     int b = br.read();                        // 정수형 입력받을 떄
-    
+    }
+}
+'''    
    

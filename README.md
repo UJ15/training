@@ -8,7 +8,7 @@ JAVA 학습 공간
 
 ### 입출력
 
-#### 1. BufferedReadeer   
+#### 1. BufferedReader   
 
 ##### 많은 양의 데이터를 처리할때 Scanner 보다 월등히 빠르다.   
 

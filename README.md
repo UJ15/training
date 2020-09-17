@@ -12,9 +12,9 @@ JAVA 학습 공간
 
 ##### 많은 양의 데이터를 처리할때 Scanner 보다 월등히 빠르다.   
 
-'''
+```
 import java.io.BufferedReader;
-import jaca.ip.InputStreamReader;
+import java.io.InputStreamReader;
 
 public class main{
   public statoc void main(String[] args) throws Excetion{  //예외처리
@@ -25,5 +25,5 @@ public class main{
     int b = br.read();                        // 정수형 입력받을 떄
     }
 }
-'''    
+```
    
